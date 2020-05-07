@@ -1,3 +1,11 @@
+#####################################################
+###### Copyright © 2020, UChicago Argonne, LLC ######
+################ All Rights Reserved ################
+############# Software Name: TF-MoE #################
+######## By: Argonne National Laboratory ############
+#####################################################
+# Full license can be found at: https://github.com/owoyeleope/TFM-MoE/blob/master/LICENSE
+
 import tensorflow as tf
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
